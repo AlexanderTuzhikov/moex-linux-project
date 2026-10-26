@@ -1,0 +1,3410 @@
+[
+  {
+    "trade_date": "2025-02-17",
+    "open_price": 216.34,
+    "low_price": 210.1,
+    "high_price": 216.34,
+    "close_price": 216.34,
+    "volume": 6354581
+  },
+  {
+    "trade_date": "2025-02-18",
+    "open_price": 211.4,
+    "low_price": 210,
+    "high_price": 236,
+    "close_price": 210.5,
+    "volume": 10164860
+  },
+  {
+    "trade_date": "2025-02-19",
+    "open_price": 208.12,
+    "low_price": 207.52,
+    "high_price": 225,
+    "close_price": 221.92,
+    "volume": 6296243
+  },
+  {
+    "trade_date": "2025-02-20",
+    "open_price": 222.02,
+    "low_price": 217.06,
+    "high_price": 227.5,
+    "close_price": 219.52,
+    "volume": 3342203
+  },
+  {
+    "trade_date": "2025-02-21",
+    "open_price": 221.52,
+    "low_price": 215.12,
+    "high_price": 221.52,
+    "close_price": 219.02,
+    "volume": 1649652
+  },
+  {
+    "trade_date": "2025-02-24",
+    "open_price": 220,
+    "low_price": 220,
+    "high_price": 233.68,
+    "close_price": 233,
+    "volume": 3515021
+  },
+  {
+    "trade_date": "2025-02-25",
+    "open_price": 234.5,
+    "low_price": 230,
+    "high_price": 234.5,
+    "close_price": 230.2,
+    "volume": 1679330
+  },
+  {
+    "trade_date": "2025-02-26",
+    "open_price": 233.1,
+    "low_price": 227.04,
+    "high_price": 244.5,
+    "close_price": 239.96,
+    "volume": 7396660
+  },
+  {
+    "trade_date": "2025-02-27",
+    "open_price": 238.9,
+    "low_price": 234.12,
+    "high_price": 242,
+    "close_price": 235.4,
+    "volume": 2131381
+  },
+  {
+    "trade_date": "2025-02-28",
+    "open_price": 235.4,
+    "low_price": 222.08,
+    "high_price": 237.4,
+    "close_price": 229.8,
+    "volume": 1842809
+  },
+  {
+    "trade_date": "2025-03-03",
+    "open_price": 229.84,
+    "low_price": 215.1,
+    "high_price": 231.36,
+    "close_price": 218.8,
+    "volume": 2718443
+  },
+  {
+    "trade_date": "2025-03-04",
+    "open_price": 225.2,
+    "low_price": 221.16,
+    "high_price": 230.4,
+    "close_price": 227.12,
+    "volume": 2314782
+  },
+  {
+    "trade_date": "2025-03-05",
+    "open_price": 227.12,
+    "low_price": 224.86,
+    "high_price": 234.3,
+    "close_price": 233.32,
+    "volume": 988327
+  },
+  {
+    "trade_date": "2025-03-06",
+    "open_price": 233.4,
+    "low_price": 227.5,
+    "high_price": 239.92,
+    "close_price": 230.78,
+    "volume": 818906
+  },
+  {
+    "trade_date": "2025-03-07",
+    "open_price": 231.82,
+    "low_price": 225.4,
+    "high_price": 235.84,
+    "close_price": 226,
+    "volume": 1014216
+  },
+  {
+    "trade_date": "2025-03-10",
+    "open_price": 229.86,
+    "low_price": 226.2,
+    "high_price": 232.2,
+    "close_price": 228,
+    "volume": 1041182
+  },
+  {
+    "trade_date": "2025-03-11",
+    "open_price": 228,
+    "low_price": 227,
+    "high_price": 234,
+    "close_price": 233,
+    "volume": 999445
+  },
+  {
+    "trade_date": "2025-03-12",
+    "open_price": 232,
+    "low_price": 230.34,
+    "high_price": 235,
+    "close_price": 233.46,
+    "volume": 842806
+  },
+  {
+    "trade_date": "2025-03-13",
+    "open_price": 233.02,
+    "low_price": 223.44,
+    "high_price": 233.02,
+    "close_price": 228.5,
+    "volume": 2089736
+  },
+  {
+    "trade_date": "2025-03-14",
+    "open_price": 229.9,
+    "low_price": 228.26,
+    "high_price": 233.86,
+    "close_price": 233.2,
+    "volume": 671311
+  },
+  {
+    "trade_date": "2025-03-17",
+    "open_price": 235,
+    "low_price": 232,
+    "high_price": 237.9,
+    "close_price": 234.9,
+    "volume": 1534187
+  },
+  {
+    "trade_date": "2025-03-18",
+    "open_price": 234,
+    "low_price": 227.52,
+    "high_price": 236.58,
+    "close_price": 231.72,
+    "volume": 1582327
+  },
+  {
+    "trade_date": "2025-03-19",
+    "open_price": 231.72,
+    "low_price": 227.34,
+    "high_price": 232.72,
+    "close_price": 231.6,
+    "volume": 1023666
+  },
+  {
+    "trade_date": "2025-03-20",
+    "open_price": 231.8,
+    "low_price": 228.4,
+    "high_price": 237.7,
+    "close_price": 229.92,
+    "volume": 1222578
+  },
+  {
+    "trade_date": "2025-03-21",
+    "open_price": 231.72,
+    "low_price": 226.12,
+    "high_price": 231.72,
+    "close_price": 226.82,
+    "volume": 803239
+  },
+  {
+    "trade_date": "2025-03-24",
+    "open_price": 226.96,
+    "low_price": 220.46,
+    "high_price": 227.88,
+    "close_price": 222.38,
+    "volume": 940643
+  },
+  {
+    "trade_date": "2025-03-25",
+    "open_price": 223.24,
+    "low_price": 219,
+    "high_price": 228.9,
+    "close_price": 226.18,
+    "volume": 1291788
+  },
+  {
+    "trade_date": "2025-03-26",
+    "open_price": 230.5,
+    "low_price": 180.1,
+    "high_price": 231.5,
+    "close_price": 182,
+    "volume": 94856734
+  },
+  {
+    "trade_date": "2025-03-27",
+    "open_price": 175,
+    "low_price": 156.32,
+    "high_price": 177.78,
+    "close_price": 166.1,
+    "volume": 84823386
+  },
+  {
+    "trade_date": "2025-03-28",
+    "open_price": 162,
+    "low_price": 150,
+    "high_price": 169.7,
+    "close_price": 151.98,
+    "volume": 35343312
+  },
+  {
+    "trade_date": "2025-03-31",
+    "open_price": 153.1,
+    "low_price": 140.3,
+    "high_price": 158.24,
+    "close_price": 147.02,
+    "volume": 42501755
+  },
+  {
+    "trade_date": "2025-04-01",
+    "open_price": 149,
+    "low_price": 147.6,
+    "high_price": 162.84,
+    "close_price": 156.34,
+    "volume": 50310856
+  },
+  {
+    "trade_date": "2025-04-02",
+    "open_price": 152.74,
+    "low_price": 152.56,
+    "high_price": 160.44,
+    "close_price": 155.02,
+    "volume": 14894983
+  },
+  {
+    "trade_date": "2025-04-03",
+    "open_price": 158,
+    "low_price": 147.02,
+    "high_price": 158.6,
+    "close_price": 148.06,
+    "volume": 7793175
+  },
+  {
+    "trade_date": "2025-04-04",
+    "open_price": 150,
+    "low_price": 140.2,
+    "high_price": 151.9,
+    "close_price": 141.5,
+    "volume": 9308778
+  },
+  {
+    "trade_date": "2025-04-07",
+    "open_price": 130,
+    "low_price": 124.88,
+    "high_price": 137.24,
+    "close_price": 130,
+    "volume": 12263687
+  },
+  {
+    "trade_date": "2025-04-08",
+    "open_price": 134,
+    "low_price": 130.72,
+    "high_price": 136.94,
+    "close_price": 130.84,
+    "volume": 7610470
+  },
+  {
+    "trade_date": "2025-04-09",
+    "open_price": 130.84,
+    "low_price": 119.1,
+    "high_price": 132.2,
+    "close_price": 122.84,
+    "volume": 12037071
+  },
+  {
+    "trade_date": "2025-04-10",
+    "open_price": 134.9,
+    "low_price": 125.24,
+    "high_price": 135,
+    "close_price": 125.88,
+    "volume": 9582686
+  },
+  {
+    "trade_date": "2025-04-11",
+    "open_price": 126,
+    "low_price": 125.5,
+    "high_price": 133.48,
+    "close_price": 128.14,
+    "volume": 7067223
+  },
+  {
+    "trade_date": "2025-04-14",
+    "open_price": 128.14,
+    "low_price": 127,
+    "high_price": 133.98,
+    "close_price": 128.28,
+    "volume": 6089387
+  },
+  {
+    "trade_date": "2025-04-15",
+    "open_price": 128.28,
+    "low_price": 125.62,
+    "high_price": 129.98,
+    "close_price": 127.94,
+    "volume": 2775642
+  },
+  {
+    "trade_date": "2025-04-16",
+    "open_price": 127.92,
+    "low_price": 125.54,
+    "high_price": 128.18,
+    "close_price": 126.94,
+    "volume": 3473101
+  },
+  {
+    "trade_date": "2025-04-17",
+    "open_price": 127.4,
+    "low_price": 126.16,
+    "high_price": 133.6,
+    "close_price": 130.5,
+    "volume": 14157822
+  },
+  {
+    "trade_date": "2025-04-18",
+    "open_price": 129,
+    "low_price": 126.88,
+    "high_price": 130.44,
+    "close_price": 127.92,
+    "volume": 3909848
+  },
+  {
+    "trade_date": "2025-04-21",
+    "open_price": 128,
+    "low_price": 127.1,
+    "high_price": 137.48,
+    "close_price": 136.5,
+    "volume": 13199853
+  },
+  {
+    "trade_date": "2025-04-22",
+    "open_price": 137.4,
+    "low_price": 133.9,
+    "high_price": 142,
+    "close_price": 138.2,
+    "volume": 20282932
+  },
+  {
+    "trade_date": "2025-04-23",
+    "open_price": 138.4,
+    "low_price": 129,
+    "high_price": 147.96,
+    "close_price": 136.7,
+    "volume": 64418896
+  },
+  {
+    "trade_date": "2025-04-24",
+    "open_price": 135.7,
+    "low_price": 132.72,
+    "high_price": 136.94,
+    "close_price": 134.02,
+    "volume": 10626955
+  },
+  {
+    "trade_date": "2025-04-25",
+    "open_price": 133.92,
+    "low_price": 133.4,
+    "high_price": 136.86,
+    "close_price": 134.48,
+    "volume": 6251898
+  },
+  {
+    "trade_date": "2025-04-28",
+    "open_price": 134.62,
+    "low_price": 133.02,
+    "high_price": 139.8,
+    "close_price": 134.6,
+    "volume": 9990719
+  },
+  {
+    "trade_date": "2025-04-29",
+    "open_price": 135,
+    "low_price": 131.54,
+    "high_price": 135.02,
+    "close_price": 132.1,
+    "volume": 2712079
+  },
+  {
+    "trade_date": "2025-04-30",
+    "open_price": 131.5,
+    "low_price": 129.6,
+    "high_price": 134.38,
+    "close_price": 133.72,
+    "volume": 4130373
+  },
+  {
+    "trade_date": "2025-05-02",
+    "open_price": 133.62,
+    "low_price": 130.5,
+    "high_price": 134,
+    "close_price": 131.64,
+    "volume": 1735731
+  },
+  {
+    "trade_date": "2025-05-05",
+    "open_price": 131.9,
+    "low_price": 125,
+    "high_price": 132.66,
+    "close_price": 126.42,
+    "volume": 3953047
+  },
+  {
+    "trade_date": "2025-05-06",
+    "open_price": 127,
+    "low_price": 125.52,
+    "high_price": 128.86,
+    "close_price": 127.2,
+    "volume": 2241408
+  },
+  {
+    "trade_date": "2025-05-07",
+    "open_price": 127.22,
+    "low_price": 127.02,
+    "high_price": 130.5,
+    "close_price": 128.76,
+    "volume": 1904026
+  },
+  {
+    "trade_date": "2025-05-08",
+    "open_price": 129.1,
+    "low_price": 128.68,
+    "high_price": 131.42,
+    "close_price": 129.8,
+    "volume": 2026255
+  },
+  {
+    "trade_date": "2025-05-12",
+    "open_price": 129.84,
+    "low_price": 128.8,
+    "high_price": 136,
+    "close_price": 135.4,
+    "volume": 5242580
+  },
+  {
+    "trade_date": "2025-05-13",
+    "open_price": 135.98,
+    "low_price": 135.52,
+    "high_price": 141.98,
+    "close_price": 139.16,
+    "volume": 17297658
+  },
+  {
+    "trade_date": "2025-05-14",
+    "open_price": 140,
+    "low_price": 120,
+    "high_price": 140.58,
+    "close_price": 130.62,
+    "volume": 29995395
+  },
+  {
+    "trade_date": "2025-05-15",
+    "open_price": 129.9,
+    "low_price": 125,
+    "high_price": 130.74,
+    "close_price": 129.6,
+    "volume": 8242393
+  },
+  {
+    "trade_date": "2025-05-16",
+    "open_price": 129.1,
+    "low_price": 126.8,
+    "high_price": 131.02,
+    "close_price": 130,
+    "volume": 3784603
+  },
+  {
+    "trade_date": "2025-05-19",
+    "open_price": 129.96,
+    "low_price": 128.74,
+    "high_price": 132.22,
+    "close_price": 129.22,
+    "volume": 4746411
+  },
+  {
+    "trade_date": "2025-05-20",
+    "open_price": 129.54,
+    "low_price": 125.32,
+    "high_price": 130.2,
+    "close_price": 127.1,
+    "volume": 6349179
+  },
+  {
+    "trade_date": "2025-05-21",
+    "open_price": 127.12,
+    "low_price": 121.1,
+    "high_price": 128.38,
+    "close_price": 121.9,
+    "volume": 6500920
+  },
+  {
+    "trade_date": "2025-05-22",
+    "open_price": 122,
+    "low_price": 118,
+    "high_price": 122.5,
+    "close_price": 118.04,
+    "volume": 6922553
+  },
+  {
+    "trade_date": "2025-05-23",
+    "open_price": 118.4,
+    "low_price": 114.1,
+    "high_price": 119.48,
+    "close_price": 114.82,
+    "volume": 4467704
+  },
+  {
+    "trade_date": "2025-05-26",
+    "open_price": 114.5,
+    "low_price": 107.1,
+    "high_price": 114.5,
+    "close_price": 108.4,
+    "volume": 8735765
+  },
+  {
+    "trade_date": "2025-05-27",
+    "open_price": 108.36,
+    "low_price": 105.18,
+    "high_price": 109.48,
+    "close_price": 108.26,
+    "volume": 5217235
+  },
+  {
+    "trade_date": "2025-05-28",
+    "open_price": 108.26,
+    "low_price": 108.12,
+    "high_price": 115.5,
+    "close_price": 114.34,
+    "volume": 7311353
+  },
+  {
+    "trade_date": "2025-05-29",
+    "open_price": 114.7,
+    "low_price": 108.5,
+    "high_price": 115.22,
+    "close_price": 109.2,
+    "volume": 12652618
+  },
+  {
+    "trade_date": "2025-05-30",
+    "open_price": 109.98,
+    "low_price": 108.1,
+    "high_price": 112.86,
+    "close_price": 110.12,
+    "volume": 4257935
+  },
+  {
+    "trade_date": "2025-06-02",
+    "open_price": 110.5,
+    "low_price": 107,
+    "high_price": 111.34,
+    "close_price": 109.32,
+    "volume": 3487164
+  },
+  {
+    "trade_date": "2025-06-03",
+    "open_price": 109.5,
+    "low_price": 109.38,
+    "high_price": 111.96,
+    "close_price": 110.68,
+    "volume": 3657978
+  },
+  {
+    "trade_date": "2025-06-04",
+    "open_price": 110.68,
+    "low_price": 109.52,
+    "high_price": 111.62,
+    "close_price": 110.42,
+    "volume": 3583672
+  },
+  {
+    "trade_date": "2025-06-05",
+    "open_price": 110.42,
+    "low_price": 110.04,
+    "high_price": 112.6,
+    "close_price": 111.36,
+    "volume": 2854664
+  },
+  {
+    "trade_date": "2025-06-06",
+    "open_price": 112,
+    "low_price": 107.2,
+    "high_price": 112.12,
+    "close_price": 108.04,
+    "volume": 2971918
+  },
+  {
+    "trade_date": "2025-06-09",
+    "open_price": 108.1,
+    "low_price": 106.3,
+    "high_price": 109,
+    "close_price": 107.36,
+    "volume": 2245762
+  },
+  {
+    "trade_date": "2025-06-10",
+    "open_price": 107.5,
+    "low_price": 105.16,
+    "high_price": 108.96,
+    "close_price": 106.5,
+    "volume": 3438838
+  },
+  {
+    "trade_date": "2025-06-11",
+    "open_price": 106.6,
+    "low_price": 106.06,
+    "high_price": 108.8,
+    "close_price": 106.74,
+    "volume": 2037793
+  },
+  {
+    "trade_date": "2025-06-13",
+    "open_price": 106.92,
+    "low_price": 106.56,
+    "high_price": 107.86,
+    "close_price": 106.8,
+    "volume": 598025
+  },
+  {
+    "trade_date": "2025-06-16",
+    "open_price": 106.82,
+    "low_price": 104.66,
+    "high_price": 107.64,
+    "close_price": 104.98,
+    "volume": 2592451
+  },
+  {
+    "trade_date": "2025-06-17",
+    "open_price": 105.22,
+    "low_price": 104.58,
+    "high_price": 113.8,
+    "close_price": 112.98,
+    "volume": 8950829
+  },
+  {
+    "trade_date": "2025-06-18",
+    "open_price": 113.6,
+    "low_price": 111.36,
+    "high_price": 116.64,
+    "close_price": 112.4,
+    "volume": 14030310
+  },
+  {
+    "trade_date": "2025-06-19",
+    "open_price": 112.88,
+    "low_price": 109.78,
+    "high_price": 114.6,
+    "close_price": 111.1,
+    "volume": 4908815
+  },
+  {
+    "trade_date": "2025-06-20",
+    "open_price": 111.38,
+    "low_price": 110.1,
+    "high_price": 114.8,
+    "close_price": 111.54,
+    "volume": 7146660
+  },
+  {
+    "trade_date": "2025-06-23",
+    "open_price": 111.56,
+    "low_price": 108.66,
+    "high_price": 112.1,
+    "close_price": 109.04,
+    "volume": 3167716
+  },
+  {
+    "trade_date": "2025-06-24",
+    "open_price": 109.04,
+    "low_price": 108.68,
+    "high_price": 111.84,
+    "close_price": 110.34,
+    "volume": 3796423
+  },
+  {
+    "trade_date": "2025-06-25",
+    "open_price": 110.64,
+    "low_price": 107.22,
+    "high_price": 111.1,
+    "close_price": 108.6,
+    "volume": 5869651
+  },
+  {
+    "trade_date": "2025-06-26",
+    "open_price": 108.36,
+    "low_price": 107.64,
+    "high_price": 109.12,
+    "close_price": 107.98,
+    "volume": 2058788
+  },
+  {
+    "trade_date": "2025-06-27",
+    "open_price": 108,
+    "low_price": 107.32,
+    "high_price": 108.44,
+    "close_price": 108,
+    "volume": 1715814
+  },
+  {
+    "trade_date": "2025-06-30",
+    "open_price": 108,
+    "low_price": 107.82,
+    "high_price": 112.5,
+    "close_price": 111.76,
+    "volume": 10036643
+  },
+  {
+    "trade_date": "2025-07-01",
+    "open_price": 112,
+    "low_price": 109.62,
+    "high_price": 113.22,
+    "close_price": 110.16,
+    "volume": 4659204
+  },
+  {
+    "trade_date": "2025-07-02",
+    "open_price": 110.5,
+    "low_price": 109,
+    "high_price": 110.9,
+    "close_price": 109.12,
+    "volume": 1938396
+  },
+  {
+    "trade_date": "2025-07-03",
+    "open_price": 109.2,
+    "low_price": 107,
+    "high_price": 110.28,
+    "close_price": 107.34,
+    "volume": 4513415
+  },
+  {
+    "trade_date": "2025-07-04",
+    "open_price": 107.06,
+    "low_price": 105.16,
+    "high_price": 107.82,
+    "close_price": 106.46,
+    "volume": 3648119
+  },
+  {
+    "trade_date": "2025-07-07",
+    "open_price": 106.2,
+    "low_price": 104.72,
+    "high_price": 106.7,
+    "close_price": 104.98,
+    "volume": 2716825
+  },
+  {
+    "trade_date": "2025-07-08",
+    "open_price": 104.94,
+    "low_price": 103.48,
+    "high_price": 108.02,
+    "close_price": 103.68,
+    "volume": 4998665
+  },
+  {
+    "trade_date": "2025-07-09",
+    "open_price": 104,
+    "low_price": 97.02,
+    "high_price": 105.28,
+    "close_price": 98.48,
+    "volume": 8136516
+  },
+  {
+    "trade_date": "2025-07-10",
+    "open_price": 98.66,
+    "low_price": 94.78,
+    "high_price": 100.94,
+    "close_price": 98.12,
+    "volume": 11018057
+  },
+  {
+    "trade_date": "2025-07-11",
+    "open_price": 98,
+    "low_price": 96,
+    "high_price": 100.66,
+    "close_price": 97.96,
+    "volume": 4882875
+  },
+  {
+    "trade_date": "2025-07-14",
+    "open_price": 98,
+    "low_price": 95.42,
+    "high_price": 100.9,
+    "close_price": 100.24,
+    "volume": 4323080
+  },
+  {
+    "trade_date": "2025-07-15",
+    "open_price": 100.58,
+    "low_price": 99.56,
+    "high_price": 102.3,
+    "close_price": 100.12,
+    "volume": 3628892
+  },
+  {
+    "trade_date": "2025-07-16",
+    "open_price": 100.24,
+    "low_price": 98.56,
+    "high_price": 101.32,
+    "close_price": 99.14,
+    "volume": 3382285
+  },
+  {
+    "trade_date": "2025-07-17",
+    "open_price": 99,
+    "low_price": 98.7,
+    "high_price": 100.72,
+    "close_price": 99.14,
+    "volume": 2344152
+  },
+  {
+    "trade_date": "2025-07-18",
+    "open_price": 99.46,
+    "low_price": 99,
+    "high_price": 100.8,
+    "close_price": 100.64,
+    "volume": 4256961
+  },
+  {
+    "trade_date": "2025-07-21",
+    "open_price": 100.7,
+    "low_price": 100.22,
+    "high_price": 106.5,
+    "close_price": 106.42,
+    "volume": 10507262
+  },
+  {
+    "trade_date": "2025-07-22",
+    "open_price": 106.42,
+    "low_price": 103.6,
+    "high_price": 106.6,
+    "close_price": 105.32,
+    "volume": 4212380
+  },
+  {
+    "trade_date": "2025-07-23",
+    "open_price": 105.34,
+    "low_price": 104.86,
+    "high_price": 106.9,
+    "close_price": 105.3,
+    "volume": 3390870
+  },
+  {
+    "trade_date": "2025-07-24",
+    "open_price": 105.34,
+    "low_price": 104.7,
+    "high_price": 110.82,
+    "close_price": 108.3,
+    "volume": 21830997
+  },
+  {
+    "trade_date": "2025-07-25",
+    "open_price": 108.4,
+    "low_price": 105.14,
+    "high_price": 108.94,
+    "close_price": 105.9,
+    "volume": 6629288
+  },
+  {
+    "trade_date": "2025-07-28",
+    "open_price": 105.98,
+    "low_price": 105.5,
+    "high_price": 110,
+    "close_price": 105.92,
+    "volume": 5405214
+  },
+  {
+    "trade_date": "2025-07-29",
+    "open_price": 105.92,
+    "low_price": 105.64,
+    "high_price": 107.48,
+    "close_price": 106.12,
+    "volume": 1766565
+  },
+  {
+    "trade_date": "2025-07-30",
+    "open_price": 106.6,
+    "low_price": 104.1,
+    "high_price": 106.86,
+    "close_price": 104.22,
+    "volume": 1331672
+  },
+  {
+    "trade_date": "2025-07-31",
+    "open_price": 104.88,
+    "low_price": 102.6,
+    "high_price": 105.62,
+    "close_price": 104.76,
+    "volume": 1563058
+  },
+  {
+    "trade_date": "2025-08-01",
+    "open_price": 104.76,
+    "low_price": 103.66,
+    "high_price": 106.28,
+    "close_price": 104.74,
+    "volume": 1406965
+  },
+  {
+    "trade_date": "2025-08-04",
+    "open_price": 105,
+    "low_price": 104.78,
+    "high_price": 107.3,
+    "close_price": 107,
+    "volume": 2246302
+  },
+  {
+    "trade_date": "2025-08-05",
+    "open_price": 106.62,
+    "low_price": 106.56,
+    "high_price": 109.32,
+    "close_price": 107.06,
+    "volume": 3967458
+  },
+  {
+    "trade_date": "2025-08-06",
+    "open_price": 107.3,
+    "low_price": 106.64,
+    "high_price": 111.5,
+    "close_price": 110.08,
+    "volume": 7731704
+  },
+  {
+    "trade_date": "2025-08-07",
+    "open_price": 109.82,
+    "low_price": 109.7,
+    "high_price": 113.14,
+    "close_price": 111,
+    "volume": 7417702
+  },
+  {
+    "trade_date": "2025-08-08",
+    "open_price": 111,
+    "low_price": 110.58,
+    "high_price": 112.98,
+    "close_price": 112.34,
+    "volume": 4563528
+  },
+  {
+    "trade_date": "2025-08-11",
+    "open_price": 112.76,
+    "low_price": 112.76,
+    "high_price": 119.64,
+    "close_price": 115.46,
+    "volume": 12954250
+  },
+  {
+    "trade_date": "2025-08-12",
+    "open_price": 115.68,
+    "low_price": 113.22,
+    "high_price": 116.48,
+    "close_price": 115.78,
+    "volume": 5740402
+  },
+  {
+    "trade_date": "2025-08-13",
+    "open_price": 115.98,
+    "low_price": 115.72,
+    "high_price": 124.6,
+    "close_price": 123.64,
+    "volume": 23008731
+  },
+  {
+    "trade_date": "2025-08-14",
+    "open_price": 123.64,
+    "low_price": 120.62,
+    "high_price": 129.6,
+    "close_price": 128.56,
+    "volume": 29390630
+  },
+  {
+    "trade_date": "2025-08-15",
+    "open_price": 128.52,
+    "low_price": 127.5,
+    "high_price": 134.9,
+    "close_price": 134.22,
+    "volume": 42429547
+  },
+  {
+    "trade_date": "2025-08-18",
+    "open_price": 131.98,
+    "low_price": 128.1,
+    "high_price": 136.4,
+    "close_price": 133.16,
+    "volume": 46604576
+  },
+  {
+    "trade_date": "2025-08-19",
+    "open_price": 133.68,
+    "low_price": 124.3,
+    "high_price": 135.7,
+    "close_price": 128.06,
+    "volume": 67262079
+  },
+  {
+    "trade_date": "2025-08-20",
+    "open_price": 128.04,
+    "low_price": 126.48,
+    "high_price": 132.5,
+    "close_price": 131.58,
+    "volume": 25160772
+  },
+  {
+    "trade_date": "2025-08-21",
+    "open_price": 132.06,
+    "low_price": 130.22,
+    "high_price": 135,
+    "close_price": 131.5,
+    "volume": 36314445
+  },
+  {
+    "trade_date": "2025-08-22",
+    "open_price": 131.5,
+    "low_price": 129.5,
+    "high_price": 133.4,
+    "close_price": 131.12,
+    "volume": 12990687
+  },
+  {
+    "trade_date": "2025-08-25",
+    "open_price": 131.12,
+    "low_price": 129,
+    "high_price": 132.46,
+    "close_price": 131.08,
+    "volume": 7253939
+  },
+  {
+    "trade_date": "2025-08-26",
+    "open_price": 131.72,
+    "low_price": 131,
+    "high_price": 133.62,
+    "close_price": 133.22,
+    "volume": 5237432
+  },
+  {
+    "trade_date": "2025-08-27",
+    "open_price": 133,
+    "low_price": 132.7,
+    "high_price": 138.3,
+    "close_price": 137.74,
+    "volume": 19244816
+  },
+  {
+    "trade_date": "2025-08-28",
+    "open_price": 138.22,
+    "low_price": 136.06,
+    "high_price": 139.74,
+    "close_price": 136.66,
+    "volume": 11848054
+  },
+  {
+    "trade_date": "2025-08-29",
+    "open_price": 136.68,
+    "low_price": 134.16,
+    "high_price": 137.9,
+    "close_price": 136.2,
+    "volume": 7131662
+  },
+  {
+    "trade_date": "2025-09-01",
+    "open_price": 136.24,
+    "low_price": 135.02,
+    "high_price": 138.18,
+    "close_price": 135.74,
+    "volume": 3930403
+  },
+  {
+    "trade_date": "2025-09-02",
+    "open_price": 135.74,
+    "low_price": 130.26,
+    "high_price": 137.36,
+    "close_price": 132.08,
+    "volume": 7876489
+  },
+  {
+    "trade_date": "2025-09-03",
+    "open_price": 132.08,
+    "low_price": 127.8,
+    "high_price": 134.74,
+    "close_price": 134.18,
+    "volume": 10776500
+  },
+  {
+    "trade_date": "2025-09-04",
+    "open_price": 134,
+    "low_price": 131.2,
+    "high_price": 134.74,
+    "close_price": 132.68,
+    "volume": 4446883
+  },
+  {
+    "trade_date": "2025-09-05",
+    "open_price": 132.42,
+    "low_price": 131.6,
+    "high_price": 133.62,
+    "close_price": 132.66,
+    "volume": 2616703
+  },
+  {
+    "trade_date": "2025-09-08",
+    "open_price": 132.8,
+    "low_price": 132.04,
+    "high_price": 133.78,
+    "close_price": 132.72,
+    "volume": 1934998
+  },
+  {
+    "trade_date": "2025-09-09",
+    "open_price": 132.72,
+    "low_price": 130.5,
+    "high_price": 133.52,
+    "close_price": 131.96,
+    "volume": 2042377
+  },
+  {
+    "trade_date": "2025-09-10",
+    "open_price": 132,
+    "low_price": 129.8,
+    "high_price": 132.64,
+    "close_price": 130.62,
+    "volume": 2356288
+  },
+  {
+    "trade_date": "2025-09-11",
+    "open_price": 130.52,
+    "low_price": 129.2,
+    "high_price": 131.08,
+    "close_price": 129.3,
+    "volume": 1623598
+  },
+  {
+    "trade_date": "2025-09-12",
+    "open_price": 129.5,
+    "low_price": 123.7,
+    "high_price": 130.8,
+    "close_price": 124.9,
+    "volume": 4658385
+  },
+  {
+    "trade_date": "2025-09-15",
+    "open_price": 125.72,
+    "low_price": 124,
+    "high_price": 126.8,
+    "close_price": 125.34,
+    "volume": 1926129
+  },
+  {
+    "trade_date": "2025-09-16",
+    "open_price": 125.46,
+    "low_price": 122.16,
+    "high_price": 126.4,
+    "close_price": 123.26,
+    "volume": 2311979
+  },
+  {
+    "trade_date": "2025-09-17",
+    "open_price": 123.5,
+    "low_price": 121.42,
+    "high_price": 125,
+    "close_price": 124.62,
+    "volume": 2071879
+  },
+  {
+    "trade_date": "2025-09-18",
+    "open_price": 125,
+    "low_price": 122,
+    "high_price": 125.24,
+    "close_price": 122.46,
+    "volume": 1459331
+  },
+  {
+    "trade_date": "2025-09-19",
+    "open_price": 122.8,
+    "low_price": 118.38,
+    "high_price": 122.8,
+    "close_price": 118.48,
+    "volume": 2515688
+  },
+  {
+    "trade_date": "2025-09-22",
+    "open_price": 118.64,
+    "low_price": 113.38,
+    "high_price": 119.58,
+    "close_price": 116.42,
+    "volume": 2792957
+  },
+  {
+    "trade_date": "2025-09-23",
+    "open_price": 116.98,
+    "low_price": 114.5,
+    "high_price": 119.62,
+    "close_price": 115.5,
+    "volume": 2421167
+  },
+  {
+    "trade_date": "2025-09-24",
+    "open_price": 116.1,
+    "low_price": 113.4,
+    "high_price": 118.3,
+    "close_price": 117,
+    "volume": 1808702
+  },
+  {
+    "trade_date": "2025-09-25",
+    "open_price": 116.92,
+    "low_price": 114.22,
+    "high_price": 117.58,
+    "close_price": 114.74,
+    "volume": 1239163
+  },
+  {
+    "trade_date": "2025-09-26",
+    "open_price": 115.24,
+    "low_price": 114.12,
+    "high_price": 119,
+    "close_price": 117.5,
+    "volume": 3278447
+  },
+  {
+    "trade_date": "2025-09-29",
+    "open_price": 118.4,
+    "low_price": 115.5,
+    "high_price": 119,
+    "close_price": 118.26,
+    "volume": 2706510
+  },
+  {
+    "trade_date": "2025-09-30",
+    "open_price": 118.28,
+    "low_price": 117.72,
+    "high_price": 123,
+    "close_price": 121.28,
+    "volume": 5769500
+  },
+  {
+    "trade_date": "2025-10-01",
+    "open_price": 120.68,
+    "low_price": 115.84,
+    "high_price": 122.8,
+    "close_price": 117.68,
+    "volume": 4443174
+  },
+  {
+    "trade_date": "2025-10-02",
+    "open_price": 117.94,
+    "low_price": 114.24,
+    "high_price": 117.94,
+    "close_price": 115.42,
+    "volume": 1907920
+  },
+  {
+    "trade_date": "2025-10-03",
+    "open_price": 115.72,
+    "low_price": 110.46,
+    "high_price": 117.38,
+    "close_price": 110.9,
+    "volume": 3433962
+  },
+  {
+    "trade_date": "2025-10-06",
+    "open_price": 111.12,
+    "low_price": 107.52,
+    "high_price": 116.96,
+    "close_price": 115.48,
+    "volume": 4531260
+  },
+  {
+    "trade_date": "2025-10-07",
+    "open_price": 115.46,
+    "low_price": 114.52,
+    "high_price": 119,
+    "close_price": 117.7,
+    "volume": 2096376
+  },
+  {
+    "trade_date": "2025-10-08",
+    "open_price": 117.98,
+    "low_price": 114.3,
+    "high_price": 122.24,
+    "close_price": 115.88,
+    "volume": 8279610
+  },
+  {
+    "trade_date": "2025-10-09",
+    "open_price": 115.88,
+    "low_price": 108.96,
+    "high_price": 117.24,
+    "close_price": 115.18,
+    "volume": 7040943
+  },
+  {
+    "trade_date": "2025-10-10",
+    "open_price": 115.44,
+    "low_price": 112.22,
+    "high_price": 116.22,
+    "close_price": 113.78,
+    "volume": 1781546
+  },
+  {
+    "trade_date": "2025-10-13",
+    "open_price": 113.5,
+    "low_price": 111.82,
+    "high_price": 114.6,
+    "close_price": 112.62,
+    "volume": 1958948
+  },
+  {
+    "trade_date": "2025-10-14",
+    "open_price": 113.04,
+    "low_price": 111.22,
+    "high_price": 113.3,
+    "close_price": 111.88,
+    "volume": 873071
+  },
+  {
+    "trade_date": "2025-10-15",
+    "open_price": 112,
+    "low_price": 111.48,
+    "high_price": 113.86,
+    "close_price": 112.3,
+    "volume": 996385
+  },
+  {
+    "trade_date": "2025-10-16",
+    "open_price": 112.32,
+    "low_price": 111.32,
+    "high_price": 118,
+    "close_price": 116.76,
+    "volume": 2731695
+  },
+  {
+    "trade_date": "2025-10-17",
+    "open_price": 117.1,
+    "low_price": 114.6,
+    "high_price": 118.78,
+    "close_price": 116,
+    "volume": 1902937
+  },
+  {
+    "trade_date": "2025-10-20",
+    "open_price": 116.6,
+    "low_price": 116.3,
+    "high_price": 121.6,
+    "close_price": 119.74,
+    "volume": 3128874
+  },
+  {
+    "trade_date": "2025-10-21",
+    "open_price": 119.94,
+    "low_price": 114.3,
+    "high_price": 120.2,
+    "close_price": 115.56,
+    "volume": 2108174
+  },
+  {
+    "trade_date": "2025-10-22",
+    "open_price": 116,
+    "low_price": 111.5,
+    "high_price": 116.5,
+    "close_price": 113.46,
+    "volume": 1732692
+  },
+  {
+    "trade_date": "2025-10-23",
+    "open_price": 111.5,
+    "low_price": 110.06,
+    "high_price": 112.52,
+    "close_price": 112.24,
+    "volume": 1033112
+  },
+  {
+    "trade_date": "2025-10-24",
+    "open_price": 112.5,
+    "low_price": 104.62,
+    "high_price": 114,
+    "close_price": 109.16,
+    "volume": 3303212
+  },
+  {
+    "trade_date": "2025-10-27",
+    "open_price": 109.16,
+    "low_price": 105,
+    "high_price": 109.22,
+    "close_price": 105.16,
+    "volume": 1182534
+  },
+  {
+    "trade_date": "2025-10-28",
+    "open_price": 106,
+    "low_price": 104.94,
+    "high_price": 108.38,
+    "close_price": 107.14,
+    "volume": 1012727
+  },
+  {
+    "trade_date": "2025-10-29",
+    "open_price": 107.4,
+    "low_price": 105.8,
+    "high_price": 112.12,
+    "close_price": 110.66,
+    "volume": 3158979
+  },
+  {
+    "trade_date": "2025-10-30",
+    "open_price": 110.82,
+    "low_price": 109.68,
+    "high_price": 112.22,
+    "close_price": 111.58,
+    "volume": 1809797
+  },
+  {
+    "trade_date": "2025-10-31",
+    "open_price": 111.58,
+    "low_price": 108.3,
+    "high_price": 111.92,
+    "close_price": 109.3,
+    "volume": 1080069
+  },
+  {
+    "trade_date": "2025-11-01",
+    "open_price": 109.6,
+    "low_price": 108.64,
+    "high_price": 110.48,
+    "close_price": 109.82,
+    "volume": 392620
+  },
+  {
+    "trade_date": "2025-11-03",
+    "open_price": 109.68,
+    "low_price": 109.68,
+    "high_price": 111.94,
+    "close_price": 110.36,
+    "volume": 478210
+  },
+  {
+    "trade_date": "2025-11-05",
+    "open_price": 110.1,
+    "low_price": 108.8,
+    "high_price": 111.42,
+    "close_price": 110.02,
+    "volume": 732628
+  },
+  {
+    "trade_date": "2025-11-06",
+    "open_price": 110.12,
+    "low_price": 109.42,
+    "high_price": 111.08,
+    "close_price": 109.68,
+    "volume": 556317
+  },
+  {
+    "trade_date": "2025-11-07",
+    "open_price": 109.68,
+    "low_price": 107.92,
+    "high_price": 110.64,
+    "close_price": 109.06,
+    "volume": 1705404
+  },
+  {
+    "trade_date": "2025-11-10",
+    "open_price": 109.06,
+    "low_price": 108.74,
+    "high_price": 110.18,
+    "close_price": 109.58,
+    "volume": 785391
+  },
+  {
+    "trade_date": "2025-11-11",
+    "open_price": 109.58,
+    "low_price": 108.66,
+    "high_price": 112,
+    "close_price": 110.52,
+    "volume": 957998
+  },
+  {
+    "trade_date": "2025-11-12",
+    "open_price": 110.46,
+    "low_price": 108.6,
+    "high_price": 111.2,
+    "close_price": 109.24,
+    "volume": 724578
+  },
+  {
+    "trade_date": "2025-11-13",
+    "open_price": 109.24,
+    "low_price": 108.04,
+    "high_price": 109.74,
+    "close_price": 108.92,
+    "volume": 713220
+  },
+  {
+    "trade_date": "2025-11-14",
+    "open_price": 109,
+    "low_price": 108.04,
+    "high_price": 109.48,
+    "close_price": 108.16,
+    "volume": 502322
+  },
+  {
+    "trade_date": "2025-11-17",
+    "open_price": 108.46,
+    "low_price": 107.42,
+    "high_price": 110.98,
+    "close_price": 110,
+    "volume": 1450238
+  },
+  {
+    "trade_date": "2025-11-18",
+    "open_price": 110.3,
+    "low_price": 108.96,
+    "high_price": 111.52,
+    "close_price": 109.82,
+    "volume": 1857648
+  },
+  {
+    "trade_date": "2025-11-19",
+    "open_price": 110.96,
+    "low_price": 109,
+    "high_price": 111.32,
+    "close_price": 110.16,
+    "volume": 1983609
+  },
+  {
+    "trade_date": "2025-11-20",
+    "open_price": 110.18,
+    "low_price": 109.14,
+    "high_price": 111.1,
+    "close_price": 110.92,
+    "volume": 1605459
+  },
+  {
+    "trade_date": "2025-11-21",
+    "open_price": 111.3,
+    "low_price": 111.3,
+    "high_price": 115.36,
+    "close_price": 112.98,
+    "volume": 7354163
+  },
+  {
+    "trade_date": "2025-11-24",
+    "open_price": 113.5,
+    "low_price": 112.9,
+    "high_price": 117.46,
+    "close_price": 115.38,
+    "volume": 4961850
+  },
+  {
+    "trade_date": "2025-11-25",
+    "open_price": 115.2,
+    "low_price": 115.1,
+    "high_price": 123.42,
+    "close_price": 121.34,
+    "volume": 9821233
+  },
+  {
+    "trade_date": "2025-11-26",
+    "open_price": 121.38,
+    "low_price": 118.3,
+    "high_price": 121.46,
+    "close_price": 119.2,
+    "volume": 2099360
+  },
+  {
+    "trade_date": "2025-11-27",
+    "open_price": 119.2,
+    "low_price": 117.34,
+    "high_price": 121.98,
+    "close_price": 118.06,
+    "volume": 2350007
+  },
+  {
+    "trade_date": "2025-11-28",
+    "open_price": 118.54,
+    "low_price": 116.68,
+    "high_price": 119.88,
+    "close_price": 118.4,
+    "volume": 1551676
+  },
+  {
+    "trade_date": "2025-12-01",
+    "open_price": 118.84,
+    "low_price": 118.14,
+    "high_price": 120.76,
+    "close_price": 119.06,
+    "volume": 1388705
+  },
+  {
+    "trade_date": "2025-12-02",
+    "open_price": 118.72,
+    "low_price": 118,
+    "high_price": 120.1,
+    "close_price": 118.88,
+    "volume": 725600
+  },
+  {
+    "trade_date": "2025-12-03",
+    "open_price": 118.1,
+    "low_price": 116.22,
+    "high_price": 118.1,
+    "close_price": 117,
+    "volume": 762415
+  },
+  {
+    "trade_date": "2025-12-04",
+    "open_price": 117,
+    "low_price": 117,
+    "high_price": 118.92,
+    "close_price": 117.82,
+    "volume": 555731
+  },
+  {
+    "trade_date": "2025-12-05",
+    "open_price": 118.52,
+    "low_price": 117.64,
+    "high_price": 120.74,
+    "close_price": 119.6,
+    "volume": 1267519
+  },
+  {
+    "trade_date": "2025-12-08",
+    "open_price": 119.6,
+    "low_price": 118.8,
+    "high_price": 121.8,
+    "close_price": 119.26,
+    "volume": 1355229
+  },
+  {
+    "trade_date": "2025-12-09",
+    "open_price": 119.28,
+    "low_price": 118.54,
+    "high_price": 120.32,
+    "close_price": 119.68,
+    "volume": 779968
+  },
+  {
+    "trade_date": "2025-12-10",
+    "open_price": 119.88,
+    "low_price": 117.38,
+    "high_price": 120.1,
+    "close_price": 119.24,
+    "volume": 1081646
+  },
+  {
+    "trade_date": "2025-12-11",
+    "open_price": 119.24,
+    "low_price": 119.24,
+    "high_price": 123.38,
+    "close_price": 121.38,
+    "volume": 5294517
+  },
+  {
+    "trade_date": "2025-12-12",
+    "open_price": 121.34,
+    "low_price": 117.42,
+    "high_price": 122.36,
+    "close_price": 117.9,
+    "volume": 1151808
+  },
+  {
+    "trade_date": "2025-12-15",
+    "open_price": 117.48,
+    "low_price": 117.48,
+    "high_price": 119.62,
+    "close_price": 119.14,
+    "volume": 689103
+  },
+  {
+    "trade_date": "2025-12-16",
+    "open_price": 119.2,
+    "low_price": 119.2,
+    "high_price": 123.36,
+    "close_price": 120.12,
+    "volume": 5039728
+  },
+  {
+    "trade_date": "2025-12-17",
+    "open_price": 120.2,
+    "low_price": 118.64,
+    "high_price": 121.3,
+    "close_price": 120.06,
+    "volume": 1207458
+  },
+  {
+    "trade_date": "2025-12-18",
+    "open_price": 119.82,
+    "low_price": 117.12,
+    "high_price": 120.3,
+    "close_price": 117.9,
+    "volume": 2243189
+  },
+  {
+    "trade_date": "2025-12-19",
+    "open_price": 118.28,
+    "low_price": 116.5,
+    "high_price": 120.8,
+    "close_price": 117.1,
+    "volume": 2514927
+  },
+  {
+    "trade_date": "2025-12-22",
+    "open_price": 117.1,
+    "low_price": 114.4,
+    "high_price": 118.34,
+    "close_price": 115.18,
+    "volume": 1696784
+  },
+  {
+    "trade_date": "2025-12-23",
+    "open_price": 114.94,
+    "low_price": 110.74,
+    "high_price": 115.44,
+    "close_price": 112.56,
+    "volume": 3742564
+  },
+  {
+    "trade_date": "2025-12-24",
+    "open_price": 112.8,
+    "low_price": 111.1,
+    "high_price": 113.28,
+    "close_price": 111.76,
+    "volume": 1024377
+  },
+  {
+    "trade_date": "2025-12-25",
+    "open_price": 112,
+    "low_price": 110.7,
+    "high_price": 112,
+    "close_price": 111.14,
+    "volume": 740341
+  },
+  {
+    "trade_date": "2025-12-26",
+    "open_price": 111.1,
+    "low_price": 111.1,
+    "high_price": 112.22,
+    "close_price": 111.78,
+    "volume": 1649951
+  },
+  {
+    "trade_date": "2025-12-29",
+    "open_price": 111.88,
+    "low_price": 111.5,
+    "high_price": 117.1,
+    "close_price": 111.6,
+    "volume": 4704102
+  },
+  {
+    "trade_date": "2025-12-30",
+    "open_price": 111.6,
+    "low_price": 110,
+    "high_price": 112.66,
+    "close_price": 110.52,
+    "volume": 1291437
+  },
+  {
+    "trade_date": "2026-01-05",
+    "open_price": 111.2,
+    "low_price": 110.26,
+    "high_price": 111.4,
+    "close_price": 111.18,
+    "volume": 613986
+  },
+  {
+    "trade_date": "2026-01-06",
+    "open_price": 111.5,
+    "low_price": 110.72,
+    "high_price": 111.5,
+    "close_price": 111.02,
+    "volume": 334895
+  },
+  {
+    "trade_date": "2026-01-08",
+    "open_price": 110,
+    "low_price": 109.04,
+    "high_price": 112.42,
+    "close_price": 111.82,
+    "volume": 1371486
+  },
+  {
+    "trade_date": "2026-01-09",
+    "open_price": 111.78,
+    "low_price": 111.56,
+    "high_price": 113.26,
+    "close_price": 112.4,
+    "volume": 714452
+  },
+  {
+    "trade_date": "2026-01-12",
+    "open_price": 112.24,
+    "low_price": 112.18,
+    "high_price": 113.46,
+    "close_price": 113.08,
+    "volume": 905825
+  },
+  {
+    "trade_date": "2026-01-13",
+    "open_price": 113.58,
+    "low_price": 112.64,
+    "high_price": 115.04,
+    "close_price": 114.56,
+    "volume": 1615016
+  },
+  {
+    "trade_date": "2026-01-14",
+    "open_price": 114.48,
+    "low_price": 110.54,
+    "high_price": 115.3,
+    "close_price": 113.62,
+    "volume": 2082059
+  },
+  {
+    "trade_date": "2026-01-15",
+    "open_price": 113.62,
+    "low_price": 113.22,
+    "high_price": 114.46,
+    "close_price": 114.04,
+    "volume": 646381
+  },
+  {
+    "trade_date": "2026-01-16",
+    "open_price": 114.34,
+    "low_price": 113.8,
+    "high_price": 115,
+    "close_price": 114.36,
+    "volume": 1016382
+  },
+  {
+    "trade_date": "2026-01-19",
+    "open_price": 114.72,
+    "low_price": 114,
+    "high_price": 115.3,
+    "close_price": 114.52,
+    "volume": 1339869
+  },
+  {
+    "trade_date": "2026-01-20",
+    "open_price": 114.52,
+    "low_price": 113.28,
+    "high_price": 115.92,
+    "close_price": 114.84,
+    "volume": 1878185
+  },
+  {
+    "trade_date": "2026-01-21",
+    "open_price": 114.8,
+    "low_price": 114.28,
+    "high_price": 116.6,
+    "close_price": 115.1,
+    "volume": 2044483
+  },
+  {
+    "trade_date": "2026-01-22",
+    "open_price": 115.46,
+    "low_price": 114.9,
+    "high_price": 117.82,
+    "close_price": 115.68,
+    "volume": 2549846
+  },
+  {
+    "trade_date": "2026-01-23",
+    "open_price": 115.78,
+    "low_price": 115.02,
+    "high_price": 120.22,
+    "close_price": 119.38,
+    "volume": 7401615
+  },
+  {
+    "trade_date": "2026-01-26",
+    "open_price": 119.2,
+    "low_price": 117.02,
+    "high_price": 120.42,
+    "close_price": 117.66,
+    "volume": 2655752
+  },
+  {
+    "trade_date": "2026-01-27",
+    "open_price": 118.1,
+    "low_price": 117.6,
+    "high_price": 120.3,
+    "close_price": 120.02,
+    "volume": 1577807
+  },
+  {
+    "trade_date": "2026-01-28",
+    "open_price": 120.14,
+    "low_price": 120.12,
+    "high_price": 124.7,
+    "close_price": 122.98,
+    "volume": 6884673
+  },
+  {
+    "trade_date": "2026-01-29",
+    "open_price": 122.8,
+    "low_price": 120.72,
+    "high_price": 126.32,
+    "close_price": 124.98,
+    "volume": 4772316
+  },
+  {
+    "trade_date": "2026-01-30",
+    "open_price": 125.24,
+    "low_price": 120.78,
+    "high_price": 134.04,
+    "close_price": 130.44,
+    "volume": 12478085
+  },
+  {
+    "trade_date": "2026-02-02",
+    "open_price": 126.5,
+    "low_price": 124.18,
+    "high_price": 129.52,
+    "close_price": 126.36,
+    "volume": 8518269
+  },
+  {
+    "trade_date": "2026-02-03",
+    "open_price": 127,
+    "low_price": 125.12,
+    "high_price": 127.18,
+    "close_price": 125.36,
+    "volume": 1187821
+  },
+  {
+    "trade_date": "2026-02-04",
+    "open_price": 125.36,
+    "low_price": 122.7,
+    "high_price": 126.22,
+    "close_price": 124.06,
+    "volume": 1868072
+  },
+  {
+    "trade_date": "2026-02-05",
+    "open_price": 124.3,
+    "low_price": 121.32,
+    "high_price": 130.16,
+    "close_price": 129.38,
+    "volume": 13043764
+  },
+  {
+    "trade_date": "2026-02-06",
+    "open_price": 129.38,
+    "low_price": 123.8,
+    "high_price": 130.32,
+    "close_price": 124.5,
+    "volume": 5576986
+  },
+  {
+    "trade_date": "2026-02-09",
+    "open_price": 124.62,
+    "low_price": 119.02,
+    "high_price": 126,
+    "close_price": 120.3,
+    "volume": 7365515
+  },
+  {
+    "trade_date": "2026-02-10",
+    "open_price": 120.2,
+    "low_price": 118.58,
+    "high_price": 121.58,
+    "close_price": 119.16,
+    "volume": 2107020
+  },
+  {
+    "trade_date": "2026-02-11",
+    "open_price": 119.4,
+    "low_price": 118.74,
+    "high_price": 120.54,
+    "close_price": 119.5,
+    "volume": 1345350
+  },
+  {
+    "trade_date": "2026-02-12",
+    "open_price": 119.96,
+    "low_price": 119.38,
+    "high_price": 121.96,
+    "close_price": 120.02,
+    "volume": 1851117
+  },
+  {
+    "trade_date": "2026-02-13",
+    "open_price": 120.3,
+    "low_price": 119.62,
+    "high_price": 121.24,
+    "close_price": 120.44,
+    "volume": 1115872
+  },
+  {
+    "trade_date": "2026-02-16",
+    "open_price": 120.98,
+    "low_price": 120.2,
+    "high_price": 122.7,
+    "close_price": 122.28,
+    "volume": 1555074
+  },
+  {
+    "trade_date": "2026-02-17",
+    "open_price": 122.46,
+    "low_price": 121.88,
+    "high_price": 125,
+    "close_price": 123.64,
+    "volume": 3006804
+  },
+  {
+    "trade_date": "2026-02-18",
+    "open_price": 123.34,
+    "low_price": 121.62,
+    "high_price": 124.8,
+    "close_price": 122.88,
+    "volume": 1912740
+  },
+  {
+    "trade_date": "2026-02-19",
+    "open_price": 122.9,
+    "low_price": 121.94,
+    "high_price": 123.56,
+    "close_price": 122.5,
+    "volume": 980951
+  },
+  {
+    "trade_date": "2026-02-20",
+    "open_price": 122.52,
+    "low_price": 122.2,
+    "high_price": 124.12,
+    "close_price": 122.72,
+    "volume": 948432
+  },
+  {
+    "trade_date": "2026-02-24",
+    "open_price": 122.72,
+    "low_price": 121.1,
+    "high_price": 123.28,
+    "close_price": 122.02,
+    "volume": 1039945
+  },
+  {
+    "trade_date": "2026-02-25",
+    "open_price": 122.02,
+    "low_price": 119.38,
+    "high_price": 122.36,
+    "close_price": 120.58,
+    "volume": 2714630
+  },
+  {
+    "trade_date": "2026-02-26",
+    "open_price": 120.58,
+    "low_price": 119.68,
+    "high_price": 121.46,
+    "close_price": 120.88,
+    "volume": 1217245
+  },
+  {
+    "trade_date": "2026-02-27",
+    "open_price": 121.1,
+    "low_price": 120.48,
+    "high_price": 122.18,
+    "close_price": 121.1,
+    "volume": 1504885
+  },
+  {
+    "trade_date": "2026-03-02",
+    "open_price": 121.1,
+    "low_price": 119.7,
+    "high_price": 122.8,
+    "close_price": 121.58,
+    "volume": 2799356
+  },
+  {
+    "trade_date": "2026-03-03",
+    "open_price": 121.54,
+    "low_price": 120.88,
+    "high_price": 123.7,
+    "close_price": 122.8,
+    "volume": 2648060
+  },
+  {
+    "trade_date": "2026-03-04",
+    "open_price": 123.24,
+    "low_price": 121.1,
+    "high_price": 123.38,
+    "close_price": 122.7,
+    "volume": 1533869
+  },
+  {
+    "trade_date": "2026-03-05",
+    "open_price": 122.9,
+    "low_price": 121.78,
+    "high_price": 126.46,
+    "close_price": 124.88,
+    "volume": 3593675
+  },
+  {
+    "trade_date": "2026-03-06",
+    "open_price": 125.5,
+    "low_price": 118.62,
+    "high_price": 127.28,
+    "close_price": 119.04,
+    "volume": 6546299
+  },
+  {
+    "trade_date": "2026-03-09",
+    "open_price": 119.04,
+    "low_price": 118.88,
+    "high_price": 120.52,
+    "close_price": 119.46,
+    "volume": 1676820
+  },
+  {
+    "trade_date": "2026-03-10",
+    "open_price": 119.9,
+    "low_price": 117.2,
+    "high_price": 120.26,
+    "close_price": 118.2,
+    "volume": 2336786
+  },
+  {
+    "trade_date": "2026-03-11",
+    "open_price": 118,
+    "low_price": 116.24,
+    "high_price": 118.56,
+    "close_price": 117.14,
+    "volume": 990507
+  },
+  {
+    "trade_date": "2026-03-12",
+    "open_price": 117.58,
+    "low_price": 114.2,
+    "high_price": 117.76,
+    "close_price": 115.3,
+    "volume": 3174359
+  },
+  {
+    "trade_date": "2026-03-13",
+    "open_price": 115.6,
+    "low_price": 115.06,
+    "high_price": 117.64,
+    "close_price": 116.08,
+    "volume": 1802144
+  },
+  {
+    "trade_date": "2026-03-16",
+    "open_price": 116.12,
+    "low_price": 114.98,
+    "high_price": 119.1,
+    "close_price": 115.86,
+    "volume": 3839953
+  },
+  {
+    "trade_date": "2026-03-17",
+    "open_price": 115.9,
+    "low_price": 115.4,
+    "high_price": 116.34,
+    "close_price": 115.96,
+    "volume": 819939
+  },
+  {
+    "trade_date": "2026-03-18",
+    "open_price": 115.96,
+    "low_price": 115.62,
+    "high_price": 117.7,
+    "close_price": 116.88,
+    "volume": 1713639
+  },
+  {
+    "trade_date": "2026-03-19",
+    "open_price": 116.96,
+    "low_price": 116.5,
+    "high_price": 118.94,
+    "close_price": 116.52,
+    "volume": 2274117
+  },
+  {
+    "trade_date": "2026-03-20",
+    "open_price": 116.66,
+    "low_price": 116,
+    "high_price": 118.2,
+    "close_price": 116.6,
+    "volume": 968374
+  },
+  {
+    "trade_date": "2026-03-23",
+    "open_price": 116.6,
+    "low_price": 112.2,
+    "high_price": 116.7,
+    "close_price": 113.66,
+    "volume": 2404665
+  },
+  {
+    "trade_date": "2026-03-24",
+    "open_price": 113.66,
+    "low_price": 112.22,
+    "high_price": 114.28,
+    "close_price": 113.26,
+    "volume": 1266729
+  },
+  {
+    "trade_date": "2026-03-25",
+    "open_price": 113.2,
+    "low_price": 112.44,
+    "high_price": 114,
+    "close_price": 113.28,
+    "volume": 873239
+  },
+  {
+    "trade_date": "2026-03-26",
+    "open_price": 113.3,
+    "low_price": 112.5,
+    "high_price": 115.8,
+    "close_price": 113.02,
+    "volume": 2348901
+  },
+  {
+    "trade_date": "2026-03-27",
+    "open_price": 112.72,
+    "low_price": 111.58,
+    "high_price": 113.34,
+    "close_price": 112.8,
+    "volume": 1467621
+  },
+  {
+    "trade_date": "2026-03-30",
+    "open_price": 112.9,
+    "low_price": 112.02,
+    "high_price": 114.54,
+    "close_price": 113.1,
+    "volume": 1119830
+  },
+  {
+    "trade_date": "2026-03-31",
+    "open_price": 113.2,
+    "low_price": 112,
+    "high_price": 113.2,
+    "close_price": 112.54,
+    "volume": 537841
+  },
+  {
+    "trade_date": "2026-04-01",
+    "open_price": 112.4,
+    "low_price": 112.18,
+    "high_price": 113.3,
+    "close_price": 113.1,
+    "volume": 700601
+  },
+  {
+    "trade_date": "2026-04-02",
+    "open_price": 113.48,
+    "low_price": 112.94,
+    "high_price": 115.1,
+    "close_price": 114,
+    "volume": 1136230
+  },
+  {
+    "trade_date": "2026-04-03",
+    "open_price": 114.2,
+    "low_price": 114.14,
+    "high_price": 117.9,
+    "close_price": 116.02,
+    "volume": 5675792
+  },
+  {
+    "trade_date": "2026-04-06",
+    "open_price": 116.24,
+    "low_price": 115.8,
+    "high_price": 118.22,
+    "close_price": 116.76,
+    "volume": 2683739
+  },
+  {
+    "trade_date": "2026-04-07",
+    "open_price": 116.96,
+    "low_price": 114,
+    "high_price": 117.76,
+    "close_price": 115.08,
+    "volume": 1583829
+  },
+  {
+    "trade_date": "2026-04-08",
+    "open_price": 115,
+    "low_price": 114,
+    "high_price": 115.68,
+    "close_price": 114.56,
+    "volume": 967351
+  },
+  {
+    "trade_date": "2026-04-09",
+    "open_price": 115,
+    "low_price": 114.52,
+    "high_price": 116.64,
+    "close_price": 114.9,
+    "volume": 1296851
+  },
+  {
+    "trade_date": "2026-04-10",
+    "open_price": 114.9,
+    "low_price": 114.16,
+    "high_price": 115.8,
+    "close_price": 114.24,
+    "volume": 538477
+  },
+  {
+    "trade_date": "2026-04-13",
+    "open_price": 114.46,
+    "low_price": 112.9,
+    "high_price": 117.9,
+    "close_price": 113.4,
+    "volume": 1922245
+  },
+  {
+    "trade_date": "2026-04-14",
+    "open_price": 113.6,
+    "low_price": 112.12,
+    "high_price": 114.24,
+    "close_price": 113.06,
+    "volume": 1118942
+  },
+  {
+    "trade_date": "2026-04-15",
+    "open_price": 113.2,
+    "low_price": 108,
+    "high_price": 114.5,
+    "close_price": 114.02,
+    "volume": 7818584
+  },
+  {
+    "trade_date": "2026-04-16",
+    "open_price": 114.4,
+    "low_price": 113.1,
+    "high_price": 115.7,
+    "close_price": 113.74,
+    "volume": 1187069
+  },
+  {
+    "trade_date": "2026-04-17",
+    "open_price": 113.74,
+    "low_price": 111.74,
+    "high_price": 113.86,
+    "close_price": 112.24,
+    "volume": 1042962
+  },
+  {
+    "trade_date": "2026-04-20",
+    "open_price": 112.24,
+    "low_price": 112.24,
+    "high_price": 113.34,
+    "close_price": 112.76,
+    "volume": 609288
+  },
+  {
+    "trade_date": "2026-04-21",
+    "open_price": 112.8,
+    "low_price": 109.48,
+    "high_price": 113.04,
+    "close_price": 110.3,
+    "volume": 2331595
+  },
+  {
+    "trade_date": "2026-04-22",
+    "open_price": 110.3,
+    "low_price": 109.84,
+    "high_price": 111.2,
+    "close_price": 110.84,
+    "volume": 1192603
+  },
+  {
+    "trade_date": "2026-04-23",
+    "open_price": 110.94,
+    "low_price": 110.54,
+    "high_price": 112,
+    "close_price": 111.42,
+    "volume": 1011800
+  },
+  {
+    "trade_date": "2026-04-24",
+    "open_price": 111.48,
+    "low_price": 108.64,
+    "high_price": 112.08,
+    "close_price": 109.18,
+    "volume": 1451326
+  },
+  {
+    "trade_date": "2026-04-27",
+    "open_price": 109.26,
+    "low_price": 107.28,
+    "high_price": 109.7,
+    "close_price": 108.04,
+    "volume": 1156294
+  },
+  {
+    "trade_date": "2026-04-28",
+    "open_price": 108.04,
+    "low_price": 103.08,
+    "high_price": 108.3,
+    "close_price": 103.58,
+    "volume": 2352358
+  },
+  {
+    "trade_date": "2026-04-29",
+    "open_price": 103.6,
+    "low_price": 98.02,
+    "high_price": 103.6,
+    "close_price": 100.06,
+    "volume": 4579556
+  },
+  {
+    "trade_date": "2026-04-30",
+    "open_price": 100.74,
+    "low_price": 100,
+    "high_price": 102.8,
+    "close_price": 100.88,
+    "volume": 2441492
+  },
+  {
+    "trade_date": "2026-05-04",
+    "open_price": 100.88,
+    "low_price": 97.76,
+    "high_price": 111.76,
+    "close_price": 105.6,
+    "volume": 39275703
+  },
+  {
+    "trade_date": "2026-05-05",
+    "open_price": 105.16,
+    "low_price": 104.26,
+    "high_price": 111.3,
+    "close_price": 108.42,
+    "volume": 16885796
+  },
+  {
+    "trade_date": "2026-05-06",
+    "open_price": 108.6,
+    "low_price": 105.28,
+    "high_price": 109.2,
+    "close_price": 106.38,
+    "volume": 7043704
+  },
+  {
+    "trade_date": "2026-05-07",
+    "open_price": 106.38,
+    "low_price": 104,
+    "high_price": 108.24,
+    "close_price": 105.8,
+    "volume": 5681937
+  },
+  {
+    "trade_date": "2026-05-08",
+    "open_price": 105.8,
+    "low_price": 104.6,
+    "high_price": 107.24,
+    "close_price": 105.72,
+    "volume": 2271065
+  },
+  {
+    "trade_date": "2026-05-11",
+    "open_price": 107,
+    "low_price": 106.04,
+    "high_price": 107.98,
+    "close_price": 107.3,
+    "volume": 1656633
+  },
+  {
+    "trade_date": "2026-05-12",
+    "open_price": 107.48,
+    "low_price": 106.14,
+    "high_price": 108.68,
+    "close_price": 107.32,
+    "volume": 2003289
+  },
+  {
+    "trade_date": "2026-05-13",
+    "open_price": 107.34,
+    "low_price": 106.72,
+    "high_price": 111.26,
+    "close_price": 108.04,
+    "volume": 10518257
+  },
+  {
+    "trade_date": "2026-05-14",
+    "open_price": 108,
+    "low_price": 106.72,
+    "high_price": 108.34,
+    "close_price": 107.24,
+    "volume": 2060214
+  },
+  {
+    "trade_date": "2026-05-15",
+    "open_price": 107.66,
+    "low_price": 107.24,
+    "high_price": 109.6,
+    "close_price": 107.5,
+    "volume": 1604318
+  },
+  {
+    "trade_date": "2026-05-18",
+    "open_price": 107.5,
+    "low_price": 107.28,
+    "high_price": 109.9,
+    "close_price": 107.94,
+    "volume": 3397230
+  },
+  {
+    "trade_date": "2026-05-19",
+    "open_price": 108.1,
+    "low_price": 104.32,
+    "high_price": 108.42,
+    "close_price": 105.12,
+    "volume": 2073798
+  },
+  {
+    "trade_date": "2026-05-20",
+    "open_price": 105.12,
+    "low_price": 105,
+    "high_price": 106.84,
+    "close_price": 105.1,
+    "volume": 2587527
+  },
+  {
+    "trade_date": "2026-05-21",
+    "open_price": 105.2,
+    "low_price": 103.4,
+    "high_price": 106.2,
+    "close_price": 104.92,
+    "volume": 1287345
+  },
+  {
+    "trade_date": "2026-05-22",
+    "open_price": 104.92,
+    "low_price": 104.04,
+    "high_price": 105.7,
+    "close_price": 104.54,
+    "volume": 1085646
+  },
+  {
+    "trade_date": "2026-05-25",
+    "open_price": 104.18,
+    "low_price": 100.16,
+    "high_price": 104.88,
+    "close_price": 101.34,
+    "volume": 3656682
+  },
+  {
+    "trade_date": "2026-05-26",
+    "open_price": 101.34,
+    "low_price": 97,
+    "high_price": 102.06,
+    "close_price": 97.16,
+    "volume": 3571655
+  },
+  {
+    "trade_date": "2026-05-27",
+    "open_price": 97.36,
+    "low_price": 94,
+    "high_price": 98.96,
+    "close_price": 98.08,
+    "volume": 4236751
+  },
+  {
+    "trade_date": "2026-05-28",
+    "open_price": 98.08,
+    "low_price": 96.32,
+    "high_price": 98.96,
+    "close_price": 96.78,
+    "volume": 1429900
+  },
+  {
+    "trade_date": "2026-05-29",
+    "open_price": 97.94,
+    "low_price": 94.8,
+    "high_price": 103,
+    "close_price": 101.32,
+    "volume": 16384347
+  },
+  {
+    "trade_date": "2026-06-01",
+    "open_price": 101.3,
+    "low_price": 99.6,
+    "high_price": 105,
+    "close_price": 102.3,
+    "volume": 8000956
+  },
+  {
+    "trade_date": "2026-06-02",
+    "open_price": 102.28,
+    "low_price": 101.08,
+    "high_price": 108.58,
+    "close_price": 107.78,
+    "volume": 7523350
+  },
+  {
+    "trade_date": "2026-06-03",
+    "open_price": 107.5,
+    "low_price": 103.66,
+    "high_price": 109.88,
+    "close_price": 105.18,
+    "volume": 8804555
+  },
+  {
+    "trade_date": "2026-06-04",
+    "open_price": 105.2,
+    "low_price": 103.12,
+    "high_price": 106,
+    "close_price": 103.9,
+    "volume": 2578041
+  },
+  {
+    "trade_date": "2026-06-05",
+    "open_price": 103.96,
+    "low_price": 102.42,
+    "high_price": 106.86,
+    "close_price": 103.34,
+    "volume": 5224120
+  },
+  {
+    "trade_date": "2026-06-08",
+    "open_price": 103.14,
+    "low_price": 98.02,
+    "high_price": 104.42,
+    "close_price": 102.16,
+    "volume": 4228500
+  },
+  {
+    "trade_date": "2026-06-09",
+    "open_price": 101.7,
+    "low_price": 99.56,
+    "high_price": 102.82,
+    "close_price": 101,
+    "volume": 3215496
+  },
+  {
+    "trade_date": "2026-06-10",
+    "open_price": 101,
+    "low_price": 100.2,
+    "high_price": 103,
+    "close_price": 101.74,
+    "volume": 3144408
+  },
+  {
+    "trade_date": "2026-06-11",
+    "open_price": 101.8,
+    "low_price": 101.74,
+    "high_price": 105.36,
+    "close_price": 103.06,
+    "volume": 4232868
+  },
+  {
+    "trade_date": "2026-06-15",
+    "open_price": 103.06,
+    "low_price": 101.5,
+    "high_price": 105.1,
+    "close_price": 103.78,
+    "volume": 3349781
+  },
+  {
+    "trade_date": "2026-06-16",
+    "open_price": 104.26,
+    "low_price": 101.8,
+    "high_price": 105.04,
+    "close_price": 103.02,
+    "volume": 2548492
+  },
+  {
+    "trade_date": "2026-06-17",
+    "open_price": 102.98,
+    "low_price": 102.14,
+    "high_price": 104.02,
+    "close_price": 103.38,
+    "volume": 2852618
+  },
+  {
+    "trade_date": "2026-06-18",
+    "open_price": 103.6,
+    "low_price": 98.12,
+    "high_price": 105.2,
+    "close_price": 99.14,
+    "volume": 10525647
+  },
+  {
+    "trade_date": "2026-06-19",
+    "open_price": 99.42,
+    "low_price": 97.52,
+    "high_price": 101.18,
+    "close_price": 98.1,
+    "volume": 4481823
+  },
+  {
+    "trade_date": "2026-06-22",
+    "open_price": 97.96,
+    "low_price": 82.4,
+    "high_price": 98.4,
+    "close_price": 87.34,
+    "volume": 12872613
+  },
+  {
+    "trade_date": "2026-06-23",
+    "open_price": 88,
+    "low_price": 84.06,
+    "high_price": 89.12,
+    "close_price": 88.34,
+    "volume": 4152928
+  },
+  {
+    "trade_date": "2026-06-24",
+    "open_price": 88.34,
+    "low_price": 82.22,
+    "high_price": 89.78,
+    "close_price": 83.84,
+    "volume": 5415560
+  },
+  {
+    "trade_date": "2026-06-25",
+    "open_price": 84.8,
+    "low_price": 77.32,
+    "high_price": 85.82,
+    "close_price": 79.24,
+    "volume": 6560898
+  },
+  {
+    "trade_date": "2026-06-26",
+    "open_price": 79.26,
+    "low_price": 74.58,
+    "high_price": 81.58,
+    "close_price": 77.74,
+    "volume": 8208976
+  },
+  {
+    "trade_date": "2026-06-29",
+    "open_price": 78.12,
+    "low_price": 77.5,
+    "high_price": 85.98,
+    "close_price": 83.9,
+    "volume": 8220236
+  },
+  {
+    "trade_date": "2026-06-30",
+    "open_price": 83.9,
+    "low_price": 82.2,
+    "high_price": 85.3,
+    "close_price": 83.18,
+    "volume": 3363148
+  },
+  {
+    "trade_date": "2026-07-01",
+    "open_price": 82.8,
+    "low_price": 81.6,
+    "high_price": 84.46,
+    "close_price": 82.3,
+    "volume": 1755001
+  },
+  {
+    "trade_date": "2026-07-02",
+    "open_price": 82.64,
+    "low_price": 80.68,
+    "high_price": 82.7,
+    "close_price": 80.82,
+    "volume": 2118359
+  },
+  {
+    "trade_date": "2026-07-03",
+    "open_price": 80.82,
+    "low_price": 79.04,
+    "high_price": 81.92,
+    "close_price": 79.46,
+    "volume": 2246867
+  },
+  {
+    "trade_date": "2026-07-06",
+    "open_price": 79.46,
+    "low_price": 76.3,
+    "high_price": 80.56,
+    "close_price": 78.14,
+    "volume": 2313523
+  },
+  {
+    "trade_date": "2026-07-07",
+    "open_price": 78.14,
+    "low_price": 74.14,
+    "high_price": 78.2,
+    "close_price": 77.48,
+    "volume": 3520431
+  },
+  {
+    "trade_date": "2026-07-08",
+    "open_price": 77.48,
+    "low_price": 75.18,
+    "high_price": 78.3,
+    "close_price": 77.54,
+    "volume": 1967933
+  },
+  {
+    "trade_date": "2026-07-09",
+    "open_price": 77.58,
+    "low_price": 75.1,
+    "high_price": 78.08,
+    "close_price": 76.18,
+    "volume": 2004724
+  },
+  {
+    "trade_date": "2026-07-10",
+    "open_price": 76.18,
+    "low_price": 73.38,
+    "high_price": 76.18,
+    "close_price": 73.9,
+    "volume": 1787054
+  },
+  {
+    "trade_date": "2026-07-13",
+    "open_price": 73.82,
+    "low_price": 70.64,
+    "high_price": 73.84,
+    "close_price": 71.22,
+    "volume": 3165593
+  },
+  {
+    "trade_date": "2026-07-14",
+    "open_price": 71.52,
+    "low_price": 67.68,
+    "high_price": 71.92,
+    "close_price": 68.48,
+    "volume": 2425776
+  },
+  {
+    "trade_date": "2026-07-15",
+    "open_price": 68.46,
+    "low_price": 62.44,
+    "high_price": 69.76,
+    "close_price": 64.2,
+    "volume": 5490787
+  },
+  {
+    "trade_date": "2026-07-16",
+    "open_price": 64.2,
+    "low_price": 57.22,
+    "high_price": 64.38,
+    "close_price": 57.86,
+    "volume": 6283000
+  },
+  {
+    "trade_date": "2026-07-17",
+    "open_price": 57.86,
+    "low_price": 54.5,
+    "high_price": 59.28,
+    "close_price": 55.06,
+    "volume": 5316947
+  },
+  {
+    "trade_date": "2026-07-20",
+    "open_price": 55.96,
+    "low_price": 54.7,
+    "high_price": 68.82,
+    "close_price": 68.82,
+    "volume": 16648168
+  },
+  {
+    "trade_date": "2026-07-21",
+    "open_price": 68.88,
+    "low_price": 66.78,
+    "high_price": 75.32,
+    "close_price": 70.34,
+    "volume": 20841740
+  },
+  {
+    "trade_date": "2026-07-22",
+    "open_price": 71.2,
+    "low_price": 67.74,
+    "high_price": 72.28,
+    "close_price": 70.14,
+    "volume": 4911666
+  },
+  {
+    "trade_date": "2026-07-23",
+    "open_price": 71,
+    "low_price": 69.68,
+    "high_price": 73.84,
+    "close_price": 70.36,
+    "volume": 7413307
+  },
+  {
+    "trade_date": "2026-07-24",
+    "open_price": 70.22,
+    "low_price": 68.52,
+    "high_price": 99.58,
+    "close_price": 98.96,
+    "volume": 69857744
+  },
+  {
+    "trade_date": "2026-07-27",
+    "open_price": 100,
+    "low_price": 94.72,
+    "high_price": 102.14,
+    "close_price": 97.96,
+    "volume": 44253373
+  },
+  {
+    "trade_date": "2026-07-28",
+    "open_price": 98.02,
+    "low_price": 95.4,
+    "high_price": 99.8,
+    "close_price": 97.9,
+    "volume": 15109283
+  },
+  {
+    "trade_date": "2026-07-29",
+    "open_price": 98,
+    "low_price": 97.6,
+    "high_price": 98.9,
+    "close_price": 98.34,
+    "volume": 5495162
+  },
+  {
+    "trade_date": "2026-07-30",
+    "open_price": 98.38,
+    "low_price": 98,
+    "high_price": 106,
+    "close_price": 102.04,
+    "volume": 22143139
+  },
+  {
+    "trade_date": "2026-07-31",
+    "open_price": 103,
+    "low_price": 101.54,
+    "high_price": 104.38,
+    "close_price": 104,
+    "volume": 6738986
+  },
+  {
+    "trade_date": "2026-08-03",
+    "open_price": 104.58,
+    "low_price": 104.46,
+    "high_price": 109.48,
+    "close_price": 106.06,
+    "volume": 13721198
+  },
+  {
+    "trade_date": "2026-08-04",
+    "open_price": 106.5,
+    "low_price": 98.4,
+    "high_price": 107.76,
+    "close_price": 103.48,
+    "volume": 26125520
+  },
+  {
+    "trade_date": "2026-08-05",
+    "open_price": 103.4,
+    "low_price": 100.24,
+    "high_price": 106.22,
+    "close_price": 106.18,
+    "volume": 24479737
+  },
+  {
+    "trade_date": "2026-08-06",
+    "open_price": 89.68,
+    "low_price": 88.2,
+    "high_price": 93.86,
+    "close_price": 91.58,
+    "volume": 25154829
+  },
+  {
+    "trade_date": "2026-08-07",
+    "open_price": 91.86,
+    "low_price": 90.9,
+    "high_price": 92.78,
+    "close_price": 91.76,
+    "volume": 5539349
+  },
+  {
+    "trade_date": "2026-08-10",
+    "open_price": 91.24,
+    "low_price": 91,
+    "high_price": 92.6,
+    "close_price": 91.74,
+    "volume": 4242355
+  },
+  {
+    "trade_date": "2026-08-11",
+    "open_price": 91.8,
+    "low_price": 89.02,
+    "high_price": 95.14,
+    "close_price": 91.74,
+    "volume": 8259473
+  },
+  {
+    "trade_date": "2026-08-12",
+    "open_price": 91.88,
+    "low_price": 90.04,
+    "high_price": 92.42,
+    "close_price": 90.44,
+    "volume": 3096596
+  },
+  {
+    "trade_date": "2026-08-13",
+    "open_price": 90.44,
+    "low_price": 81.82,
+    "high_price": 90.56,
+    "close_price": 83.74,
+    "volume": 12721497
+  },
+  {
+    "trade_date": "2026-08-14",
+    "open_price": 83.76,
+    "low_price": 77.74,
+    "high_price": 84.94,
+    "close_price": 78.84,
+    "volume": 12305161
+  },
+  {
+    "trade_date": "2026-08-17",
+    "open_price": 78.84,
+    "low_price": 74.48,
+    "high_price": 78.84,
+    "close_price": 76.6,
+    "volume": 8054515
+  },
+  {
+    "trade_date": "2026-08-18",
+    "open_price": 76.08,
+    "low_price": 76.08,
+    "high_price": 79.98,
+    "close_price": 79.96,
+    "volume": 7940146
+  },
+  {
+    "trade_date": "2026-08-19",
+    "open_price": 80,
+    "low_price": 78.72,
+    "high_price": 82,
+    "close_price": 79.82,
+    "volume": 5260146
+  },
+  {
+    "trade_date": "2026-08-20",
+    "open_price": 79.84,
+    "low_price": 78,
+    "high_price": 80.68,
+    "close_price": 78.18,
+    "volume": 3437408
+  },
+  {
+    "trade_date": "2026-08-21",
+    "open_price": 78.2,
+    "low_price": 77.62,
+    "high_price": 79.4,
+    "close_price": 78.36,
+    "volume": 2391638
+  },
+  {
+    "trade_date": "2026-08-24",
+    "open_price": 78.44,
+    "low_price": 72.22,
+    "high_price": 78.64,
+    "close_price": 75.56,
+    "volume": 5928156
+  },
+  {
+    "trade_date": "2026-08-25",
+    "open_price": 75.4,
+    "low_price": 74.86,
+    "high_price": 77.5,
+    "close_price": 76.28,
+    "volume": 4570992
+  },
+  {
+    "trade_date": "2026-08-26",
+    "open_price": 76.9,
+    "low_price": 73.3,
+    "high_price": 76.9,
+    "close_price": 73.94,
+    "volume": 2652037
+  },
+  {
+    "trade_date": "2026-08-27",
+    "open_price": 74.14,
+    "low_price": 72.56,
+    "high_price": 76.48,
+    "close_price": 76.06,
+    "volume": 2906611
+  },
+  {
+    "trade_date": "2026-08-28",
+    "open_price": 76.2,
+    "low_price": 71.22,
+    "high_price": 80.92,
+    "close_price": 72.4,
+    "volume": 23344970
+  },
+  {
+    "trade_date": "2026-08-31",
+    "open_price": 72.4,
+    "low_price": 70.6,
+    "high_price": 73.16,
+    "close_price": 72.34,
+    "volume": 7657120
+  },
+  {
+    "trade_date": "2026-09-01",
+    "open_price": 72.32,
+    "low_price": 69.32,
+    "high_price": 72.6,
+    "close_price": 69.88,
+    "volume": 5988470
+  },
+  {
+    "trade_date": "2026-09-02",
+    "open_price": 69.5,
+    "low_price": 68.32,
+    "high_price": 70.82,
+    "close_price": 69.56,
+    "volume": 6360398
+  },
+  {
+    "trade_date": "2026-09-03",
+    "open_price": 69.58,
+    "low_price": 68.4,
+    "high_price": 70.74,
+    "close_price": 70.3,
+    "volume": 7491550
+  },
+  {
+    "trade_date": "2026-09-04",
+    "open_price": 70.32,
+    "low_price": 69.3,
+    "high_price": 71.4,
+    "close_price": 70.86,
+    "volume": 6208878
+  },
+  {
+    "trade_date": "2026-09-07",
+    "open_price": 71.08,
+    "low_price": 69.78,
+    "high_price": 71.86,
+    "close_price": 70.58,
+    "volume": 5705188
+  },
+  {
+    "trade_date": "2026-09-08",
+    "open_price": 70.58,
+    "low_price": 69.88,
+    "high_price": 74.7,
+    "close_price": 70.56,
+    "volume": 19031360
+  },
+  {
+    "trade_date": "2026-09-09",
+    "open_price": 70.54,
+    "low_price": 68.9,
+    "high_price": 71.3,
+    "close_price": 69.62,
+    "volume": 5053518
+  },
+  {
+    "trade_date": "2026-09-10",
+    "open_price": 69.72,
+    "low_price": 69.52,
+    "high_price": 71.7,
+    "close_price": 70.96,
+    "volume": 4436946
+  },
+  {
+    "trade_date": "2026-09-11",
+    "open_price": 70.96,
+    "low_price": 69.42,
+    "high_price": 71.38,
+    "close_price": 70.1,
+    "volume": 3500745
+  },
+  {
+    "trade_date": "2026-09-14",
+    "open_price": 72.46,
+    "low_price": 70.36,
+    "high_price": 72.72,
+    "close_price": 71.68,
+    "volume": 8600483
+  },
+  {
+    "trade_date": "2026-09-15",
+    "open_price": 71.7,
+    "low_price": 70.16,
+    "high_price": 72,
+    "close_price": 70.18,
+    "volume": 3040585
+  },
+  {
+    "trade_date": "2026-09-16",
+    "open_price": 70.34,
+    "low_price": 69.54,
+    "high_price": 70.78,
+    "close_price": 69.82,
+    "volume": 2258570
+  },
+  {
+    "trade_date": "2026-09-17",
+    "open_price": 69.8,
+    "low_price": 67.18,
+    "high_price": 69.8,
+    "close_price": 68.68,
+    "volume": 6030848
+  },
+  {
+    "trade_date": "2026-09-18",
+    "open_price": 68.68,
+    "low_price": 67.64,
+    "high_price": 69.36,
+    "close_price": 68.38,
+    "volume": 2687345
+  },
+  {
+    "trade_date": "2026-09-21",
+    "open_price": 68.22,
+    "low_price": 68.02,
+    "high_price": 70.86,
+    "close_price": 69.48,
+    "volume": 6945625
+  },
+  {
+    "trade_date": "2026-09-22",
+    "open_price": 69.52,
+    "low_price": 69.52,
+    "high_price": 70.98,
+    "close_price": 69.94,
+    "volume": 5362676
+  },
+  {
+    "trade_date": "2026-09-23",
+    "open_price": 70,
+    "low_price": 68.92,
+    "high_price": 70.7,
+    "close_price": 70.06,
+    "volume": 4465427
+  },
+  {
+    "trade_date": "2026-09-24",
+    "open_price": 70.46,
+    "low_price": 69.54,
+    "high_price": 71.7,
+    "close_price": 70.2,
+    "volume": 10214636
+  },
+  {
+    "trade_date": "2026-09-25",
+    "open_price": 70.36,
+    "low_price": 68.66,
+    "high_price": 70.46,
+    "close_price": 69.06,
+    "volume": 2662903
+  },
+  {
+    "trade_date": "2026-09-28",
+    "open_price": 69.06,
+    "low_price": 68.38,
+    "high_price": 69.88,
+    "close_price": 69.38,
+    "volume": 3979607
+  },
+  {
+    "trade_date": "2026-09-29",
+    "open_price": 69.62,
+    "low_price": 68.42,
+    "high_price": 69.7,
+    "close_price": 69.2,
+    "volume": 1881658
+  },
+  {
+    "trade_date": "2026-09-30",
+    "open_price": 69.2,
+    "low_price": 68.5,
+    "high_price": 69.6,
+    "close_price": 68.72,
+    "volume": 1419691
+  },
+  {
+    "trade_date": "2026-10-01",
+    "open_price": 68.58,
+    "low_price": 68.56,
+    "high_price": 70.46,
+    "close_price": 70.02,
+    "volume": 8214892
+  },
+  {
+    "trade_date": "2026-10-02",
+    "open_price": 69.86,
+    "low_price": 69,
+    "high_price": 70.14,
+    "close_price": 69.14,
+    "volume": 2165024
+  },
+  {
+    "trade_date": "2026-10-05",
+    "open_price": 69.18,
+    "low_price": 69.06,
+    "high_price": 71.18,
+    "close_price": 70.16,
+    "volume": 6341284
+  },
+  {
+    "trade_date": "2026-10-06",
+    "open_price": 70.14,
+    "low_price": 69.8,
+    "high_price": 71.48,
+    "close_price": 70.2,
+    "volume": 4958302
+  },
+  {
+    "trade_date": "2026-10-07",
+    "open_price": 70.2,
+    "low_price": 69.52,
+    "high_price": 70.68,
+    "close_price": 70.06,
+    "volume": 3693462
+  },
+  {
+    "trade_date": "2026-10-08",
+    "open_price": 70.2,
+    "low_price": 69.1,
+    "high_price": 70.3,
+    "close_price": 69.7,
+    "volume": 2884910
+  },
+  {
+    "trade_date": "2026-10-09",
+    "open_price": 69.7,
+    "low_price": 69.48,
+    "high_price": 71.08,
+    "close_price": 70.72,
+    "volume": 5450285
+  },
+  {
+    "trade_date": "2026-10-12",
+    "open_price": 71.18,
+    "low_price": 70.16,
+    "high_price": 73.88,
+    "close_price": 73.18,
+    "volume": 15314743
+  },
+  {
+    "trade_date": "2026-10-13",
+    "open_price": 73,
+    "low_price": 72.62,
+    "high_price": 75.7,
+    "close_price": 74.3,
+    "volume": 15787491
+  },
+  {
+    "trade_date": "2026-10-14",
+    "open_price": 74.66,
+    "low_price": 72.16,
+    "high_price": 74.98,
+    "close_price": 72.96,
+    "volume": 10658204
+  },
+  {
+    "trade_date": "2026-10-15",
+    "open_price": 73.28,
+    "low_price": 72.46,
+    "high_price": 74.16,
+    "close_price": 73.54,
+    "volume": 5949590
+  },
+  {
+    "trade_date": "2026-10-16",
+    "open_price": 73.5,
+    "low_price": 72.94,
+    "high_price": 74.04,
+    "close_price": 73.32,
+    "volume": 5012601
+  },
+  {
+    "trade_date": "2026-10-19",
+    "open_price": 74.08,
+    "low_price": 72.54,
+    "high_price": 75,
+    "close_price": 73.44,
+    "volume": 7659260
+  }
+]
